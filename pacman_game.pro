@@ -1,3 +1,3 @@
 TARGET = pacman_game
-SOURCES = main.cpp pacman.cpp
+SOURCES = main.cpp  pacman.cpp
 QT += widgets
